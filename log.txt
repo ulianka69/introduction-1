@@ -1,0 +1,3 @@
+1cbfedd (HEAD -> main, origin/main, origin/HEAD) Добавил log.txt
+953d47f Добавил status.txt
+098be79 Добавил README.md
